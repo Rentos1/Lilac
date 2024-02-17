@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rentos1
+- 👋 Hi, I’m Lilac.
 - 👀 I’m interested in App production.
 - 🌱 I’m currently learning Web coding.
 - 📫 How to reach me ???.
